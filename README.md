@@ -1,41 +1,17 @@
-<div align="center">
+## 🔗 Contato
 
-## Habilidades
-
-  <p align="center">
-    <img alt="PHP" title="PHP" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
-    <img alt="Laravel" title="Laravel" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
-    <img alt="Lumen" title="Lumen" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" />&nbsp;
-    <img alt="Symfony" title="Symfony" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />&nbsp;
-    <img alt="JavaScript" title="JavaScript" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-    <img alt="Vue.js" title="Vue.js" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
-    <img alt="React" title="React" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
-    <img alt="jQuery" title="jQuery" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />&nbsp;
-    <img alt="HTML5" title="HTML5" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-    <img alt="CSS3" title="CSS3" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-    <img alt="Bootstrap" title="Bootstrap" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-    <img alt="PostgreSQL" title="PostgreSQL" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
-    <img alt="MySQL" title="MySQL" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
-    <img alt="SQL Server" title="SQL Server" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;
-    <img alt="MongoDB" title="MongoDB" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
-    <img alt="Redis" title="Redis" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />&nbsp;
-    <img alt="RabbitMQ" title="RabbitMQ" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;
-    <img alt="AWS" title="AWS" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
-    <img alt="Docker" title="Docker" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
-    <img alt="Git" title="Git" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  </p>
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusprfaria)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheusprfaria@outlook.com)
 
 
-<div align="center">
+## ⚡ Stack
 
-## Contato
-
-  <a href="https://www.linkedin.com/in/matheusprfaria/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="75"/>
-  </a>
-  <a href="mailto:matheusprfaria@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="matheusprfaria@outlook.com" width="140"/>
-  </a>
-</div>
+* **Back-End:** PHP (Laravel, Lumen, Symfony).
+* **Front-End:** JavaScript (ES5, ES6), Vue.js, jQuery, HTML5, CSS3, Bootstrap.
+* **Banco de Dados & Cache:** PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis.
+* **Mensageria:** RabbitMQ.
+* **Testes & Qualidade:** Testes Automatizados (Unitários, Integração, E2E), TDD, PHPUnit, Pest.
+* **Boas Práticas & Padrões de Desenvolvimento:** PSRs, Clean Code, SOLID.
+* **Cloud & DevOps:** AWS (EC2, S3, CloudWatch, CloudFront), Docker, CI/CD.
+* **Observabilidade & Monitoramento:** Bugsnag, Graylog.
+* **Versionamento & Colaboração:** Git, GitHub, GitLab, Bitbucket, Gitflow.
