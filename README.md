@@ -1,4 +1,4 @@
-## Olá! 👋
+## 👋 Olá!
 
 Sou desenvolvedor formado em Sistemas de Informação, com sólida experiência em PHP. Ao longo da minha trajetória, atuei na evolução, integração e sustentação de sistemas corporativos e plataformas de alto impacto no negócio, trabalhando desde a manutenção e modernização de ERPs até a construção de soluções integradas, sempre com foco em performance, estabilidade e regras de negócio bem definidas.
 
